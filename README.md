@@ -49,41 +49,21 @@ I’m driven by curiosity, the desire to solve complex problems, and the satisfa
 
 ---
 
-## **1. Project Placeholder — Coming Soon**
+## **1. Road Rage Assignment**
 **Description:**  
-A sample placeholder project that demonstrates Java fundamentals, logic, and debugging.
+The Road Rage assignment is a Java-based simulation project designed to model how different vehicle types behave on a grid-based map. Each vehicle (car, truck, human, taxi, etc.) follows specific rules for movement, collisions, interactions, and direction choice. The project focuses heavily on object-oriented programming, inheritance, polymorphism, and clean class design.
 
-**Technologies:** Java, Git, IntelliJ  
+**Technologies:** Java, Object-Oriented Programming, Interfaces & Abstract Classes, JUnit Testing, IntelliJ  
 **Repository:** _To be added_  
 **Key Learnings:**  
-- Understanding object-oriented design  
-- Using Git version control  
-- Writing cleaner, more maintainable code  
+-Strengthened OOP skills using inheritance, interfaces, and polymorphism.
+-Improved class design, organization, and reusable code structure.
+-Practiced debugging complex interactions between vehicle behaviors.
+-Gained experience reading and implementing detailed project specifications.
+-Built confidence working with JUnit tests and simulation logic.
 <img src="images/Screenshot%20(38).png" width="500">
 
 ---
-
-## **2. Project Placeholder — Coming Soon**
-**Description:**  
-Example future project involving interactive program logic.
-
-**Technologies:** Python, VS Code  
-**Repository:** _To be added_  
-**Challenges:**  
-- Handling input validation  
-- Structuring reusable functions  
-
----
-
-## **3. Project Placeholder — Coming Soon**
-**Description:**  
-A larger project expected later in the academic year.
-
-**Technologies:** HTML/CSS, JavaScript  
-**Repository:** _To be added_  
-
----
-
 # 🛠 Skills
 
 ### **Programming Languages**
