@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <h1 align="center">Hi, I'm <strong>Rohullah Babakarkhail</strong> 👋</h1>
 
 <p align="center">
@@ -58,15 +59,18 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 
 **Technologies:** Java, Object-Oriented Programming, Interfaces & Abstract Classes, JUnit Testing, IntelliJ  
 **Repository:** _To be added_  
+
 **Key Learnings:**  
--Strengthened OOP skills using inheritance, interfaces, and polymorphism.
--Improved class design, organization, and reusable code structure.
--Practiced debugging complex interactions between vehicle behaviors.
--Gained experience reading and implementing detailed project specifications.
--Built confidence working with JUnit tests and simulation logic.
+- Strengthened OOP skills using inheritance, interfaces, and polymorphism.  
+- Improved class design, organization, and reusable code structure.  
+- Practiced debugging complex interactions between vehicle behaviors.  
+- Gained experience reading and implementing detailed project specifications.  
+- Built confidence working with JUnit tests and simulation logic.  
+
 <img src="images/Screenshot%20(38).png" width="500">
 
 ---
+
 # 🛠 Skills
 
 ### **Programming Languages**
