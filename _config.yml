@@ -1,3 +1,13 @@
-theme: jekyll-theme-cayman
 title: "Rohullah Babakarkhail"
 description: "Computer Science & Systems student portfolio"
+
+# Pick ONE theme from GitHub’s built-in Jekyll themes:
+theme: jekyll-theme-cayman
+# Other options you can try later:
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-architect
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-merlot
+
+# Optional: basic config to keep Jekyll happy
+markdown: kramdown
