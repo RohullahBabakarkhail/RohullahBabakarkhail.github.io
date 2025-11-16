@@ -137,10 +137,9 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 📧 your-email@domain.com *(replace with your real academic email)*
 
 ### **Links**
-- **GitHub:** https://github.com/yourusername  
-- **LinkedIn:** https://www.linkedin.com/in/your-link *(optional)*  
-- **Portfolio URL:** https://yourusername.github.io  
-
+- **GitHub:**(https://github.com/RohullahBabakarkhail)
+- **LinkedIn:**(https://www.linkedin.com/in/rohullahbabakarkhail/) 
+- **Portfolio URL:**(https://rohullahbabakarkhail.github.io/) 
 ---
 
 <h2 id="thank-you">🎉 Thank You for Visiting!</h2>
