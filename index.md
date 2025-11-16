@@ -126,15 +126,12 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 📌 **View My Resume:**  
 
 📌 <a href="Resume.pdf" target="_blank">Click here to download my resume (PDF)</a>
-
-> Make sure you upload your resume named exactly **resume.pdf** into this repo.
-
 ---
 
 <h2 id="contact">📬 Contact</h2>
 
 ### **Professional Email**
-📧 your-email@domain.com *(replace with your real academic email)*
+📧 rohullahsameer@gmail.com
 
 ### **Links**
 - **GitHub:**(https://github.com/RohullahBabakarkhail)
