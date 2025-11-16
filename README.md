@@ -59,6 +59,7 @@ A sample placeholder project that demonstrates Java fundamentals, logic, and deb
 - Understanding object-oriented design  
 - Using Git version control  
 - Writing cleaner, more maintainable code  
+<img src="images/Screenshot%20(38).png" width="500">
 
 ---
 
