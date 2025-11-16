@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <h1 align="center">Hi, I'm <strong>Rohullah Babakarkhail</strong> 👋</h1>
 <p align="center">
   <a href="#home">Home</a> • 
@@ -87,26 +86,23 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 - Python  
 - HTML & CSS  
 - JavaScript (beginner)
+- SQL
 
 ### **Tools & Technologies**
-- Git & GitHub  
-- VS Code  
+- Git & GitHub
 - IntelliJ IDEA  
-- Linux / Terminal  
 - JUnit testing  
-- Gradle (basic)  
-- Markdown  
+- Gradle (basic)
+- Jgrasp
+- Jira
+- Sharepoint
 
 ### **Relevant Coursework**
 - TCSS 142 / 143 – Programming I & II  
 - TCSS 305 – Programming Practicum  
-- TCSS 325 – Ethical Issues in Computing  
+- TCSS 325 – Ethical Issues in Computing
+- TCSS 321 – Discrete Structures 
 - More courses to be added as completed  
-
-### **Certifications / Badges**
-- *Add any badges or certificates here (optional).*
-
----
 
 <h2 id="experience">💼 Experience</h2>
 
@@ -117,26 +113,35 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 - Debugging, testing, and code refactoring  
 
 ## **Other Experience**
-(Add any job, volunteer, tutoring, or leadership experience here)
+Agile Business Analyst / Consultant — Booz Allen Hamilton
+Oct 2022 – Present
+- Lead PBI grooming sessions and sprint planning with SCRUM teams
+- Build wireframes & mockups (Visio, Draw.io)
+- Write user stories, functional requirements, and acceptance criteria
+- Collaborate with Product Owner, SMEs, devs, and QA
+- Facilitate backlog prioritization & defect review meetings
+- Analyze business processes and identify improvement opportunities
+- Track progress and milestones using JIRA & SharePoint
 
 ---
 
 <h2 id="resume">📄 Resume</h2>
 
 📌 **View My Resume:**  
+[**Click here to download my resume (PDF)**](Resume.pdf)
 
-📌 <a href="Resume.pdf" target="_blank">Click here to download my resume (PDF)</a>
 ---
 
 <h2 id="contact">📬 Contact</h2>
 
 ### **Professional Email**
-📧 rohullahsameer@gmail.com
+📧rohullahsameer@gmail.com
 
 ### **Links**
 - **GitHub:**(https://github.com/RohullahBabakarkhail)
 - **LinkedIn:**(https://www.linkedin.com/in/rohullahbabakarkhail/) 
 - **Portfolio URL:**(https://rohullahbabakarkhail.github.io/) 
+
 ---
 
 <h2 id="thank-you">🎉 Thank You for Visiting!</h2>
