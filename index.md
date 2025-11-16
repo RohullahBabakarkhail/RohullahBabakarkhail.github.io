@@ -3,6 +3,18 @@ layout: default
 ---
 
 <h1 align="center">Hi, I'm <strong>Rohullah Babakarkhail</strong> 👋</h1>
+<p align="center">
+  <a href="#home">Home</a> • 
+  <a href="#about-me">About</a> • 
+  <a href="#projects">Projects</a> • 
+  <a href="#skills">Skills</a> • 
+  <a href="#experience">Experience</a> • 
+  <a href="#resume">Resume</a> • 
+  <a href="#contact">Contact</a>
+</p>
+
+<hr>
+
 
 <p align="center">
 Undergraduate Computer Science & Systems Student @ University of Washington Tacoma  
