@@ -110,7 +110,7 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 - Debugging, testing, and code refactoring  
 
 ## **Other Experience**
-- Agile Business Analyst / Consultant — Booz Allen Hamilton
+Agile Business Analyst / Consultant — Booz Allen Hamilton
 Oct 2022 – Present
 - Lead PBI grooming sessions and sprint planning with SCRUM teams
 - Build wireframes & mockups (Visio, Draw.io)
