@@ -83,26 +83,23 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 - Python  
 - HTML & CSS  
 - JavaScript (beginner)
+- SQL
 
 ### **Tools & Technologies**
-- Git & GitHub  
-- VS Code  
+- Git & GitHub
 - IntelliJ IDEA  
-- Linux / Terminal  
 - JUnit testing  
-- Gradle (basic)  
-- Markdown  
+- Gradle (basic)
+- Jgrasp
+- Jira
+- Sharepoint
 
 ### **Relevant Coursework**
 - TCSS 142 / 143 – Programming I & II  
 - TCSS 305 – Programming Practicum  
-- TCSS 325 – Ethical Issues in Computing  
+- TCSS 325 – Ethical Issues in Computing
+- TCSS 321 – Discrete Structures 
 - More courses to be added as completed  
-
-### **Certifications / Badges**
-- *Add any badges or certificates here (optional).*
-
----
 
 <h2 id="experience">💼 Experience</h2>
 
@@ -113,7 +110,15 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 - Debugging, testing, and code refactoring  
 
 ## **Other Experience**
-(Add any job, volunteer, tutoring, or leadership experience here)
+- Agile Business Analyst / Consultant — Booz Allen Hamilton
+Oct 2022 – Present
+- Lead PBI grooming sessions and sprint planning with SCRUM teams
+- Build wireframes & mockups (Visio, Draw.io)
+- Write user stories, functional requirements, and acceptance criteria
+- Collaborate with Product Owner, SMEs, devs, and QA
+- Facilitate backlog prioritization & defect review meetings
+- Analyze business processes and identify improvement opportunities
+- Track progress and milestones using JIRA & SharePoint
 
 ---
 
