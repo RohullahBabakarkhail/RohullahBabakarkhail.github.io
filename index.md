@@ -51,11 +51,9 @@ I’m driven by curiosity, the desire to solve complex problems, and the satisfa
 
 > This section will grow over time. I will update it each quarter as I complete new coursework and personal projects.
 
----
-
-## **1. Road Rage Assignment**
+## **1. Road Rage Assignment**  
 **Description:**  
-The Road Rage assignment is a Java-based simulation project designed to model how different vehicle types behave on a grid-based map. Each vehicle (car, truck, human, taxi, etc.) follows specific rules for movement, collisions, interactions, and direction choice. The project focuses heavily on object-oriented programming, inheritance, polymorphism, and clean class design.
+The Road Rage assignment is a Java-based simulation project designed to model how different vehicle types behave on a grid-based map. Each vehicle (car, truck, human, taxi, etc.) follows specific rules for movement, collisions, interactions, and direction choices. The project focuses heavily on object-oriented programming, inheritance, polymorphism, and clean class design.
 
 **Technologies:** Java, Object-Oriented Programming, Interfaces & Abstract Classes, JUnit Testing, IntelliJ  
 **Repository:** _To be added_  
