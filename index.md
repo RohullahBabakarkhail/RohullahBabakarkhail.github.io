@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1 align="center">Hi, I'm <strong>Rohullah Babakarkhail</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Rohullah Babakarkhail</strong> </h1>
 <p align="center">
   <a href="#home">Home</a> • 
   <a href="#about-me">About</a> • 
@@ -26,7 +26,7 @@ Software Engineering • Object-Oriented Programming • Problem Solving
 </p>
 
 ---
-<h2 id="home">🏠 Home / Introduction</h2>
+<h2 id="home"> Home / Introduction</h2>
 
 Welcome to my personal portfolio website!  
 This GitHub Pages site highlights my journey as a Computer Science & Systems student at UW Tacoma.  
@@ -34,7 +34,7 @@ Here, you’ll find my projects, skills, coursework, experience, and growth as a
 
 ---
 
-<h2 id="about-me">👨‍💼 About Me</h2>
+<h2 id="about-me"> About Me</h2>
 
 I am an undergraduate Computer Science & Systems student at the University of Washington Tacoma.  
 My main interests include:
@@ -57,7 +57,7 @@ I’m driven by curiosity, the desire to solve complex problems, and the satisfa
 
 ---
 
-<h2 id="projects">🚧 Projects (Work In Progress)</h2>
+<h2 id="projects">Projects (Work In Progress)</h2>
 
 > This section will grow over time. I will update it each quarter as I complete new coursework and personal projects.
 
@@ -79,7 +79,7 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 
 ---
 
-<h2 id="skills">🛠 Skills</h2>
+<h2 id="skills">Skills</h2>
 
 ### **Programming Languages**
 - Java  
@@ -104,7 +104,7 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 - TCSS 321 – Discrete Structures 
 - More courses to be added as completed  
 
-<h2 id="experience">💼 Experience</h2>
+<h2 id="experience"> Experience</h2>
 
 ## **Programming & Academic Experience**
 - Completed multiple Java-based assignments at UW Tacoma  
@@ -113,14 +113,14 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 - Debugging, testing, and code refactoring  
 
 
-<h2 id="resume">📄 Resume</h2>
+<h2 id="resume"> Resume</h2>
 
 📌 **View My Resume:**  
 [**Click here to download my resume (PDF)**](Resume.pdf)
 
 ---
 
-<h2 id="contact">📬 Contact</h2>
+<h2 id="contact"> Contact</h2>
 
 ### **Professional Email**
 📧rohullahsameer@gmail.com
