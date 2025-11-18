@@ -129,6 +129,6 @@ The Road Rage assignment is a Java-based simulation project designed to model ho
 
 ---
 
-<h2 id="thank-you">🎉 Thank You for Visiting!</h2>
+<h2 id="thank-you"> Thank You for Visiting!</h2>
 
 Feel free to explore my projects and follow my progress as I grow as a Computer Science student and developer!
