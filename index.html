@@ -13,33 +13,20 @@
         crossorigin="anonymous"
     />
 
-    <!-- Optional: your existing custom CSS from the template -->
     <link rel="stylesheet" href="css/style.css" />
 
     <style>
-        body {
-            scroll-behavior: smooth;
-        }
-        section {
-            padding: 80px 0;
-        }
-        #hero {
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-        }
-        .hero-subtitle {
-            letter-spacing: 0.04em;
-            text-transform: uppercase;
-            font-size: 0.9rem;
-        }
-        .divider {
-            width: 80px;
-            height: 3px;
-            margin: 1rem 0 2rem 0;
-        }
-        footer {
-            padding: 20px 0;
+        body { scroll-behavior: smooth; }
+        section { padding: 80px 0; }
+        #hero { min-height: 100vh; display: flex; align-items: center; }
+        .divider { width: 80px; height: 3px; margin: 1rem 0 2rem 0; }
+        footer { padding: 20px 0; }
+
+        .icon-logo {
+            width: 28px;
+            height: 28px;
+            margin-right: 8px;
+            vertical-align: middle;
         }
     </style>
 </head>
@@ -49,15 +36,7 @@
 <nav id="mainNav" class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
         <a class="navbar-brand fw-bold" href="#hero">Rohullah Babakarkhail</a>
-        <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarResponsive"
-            aria-controls="navbarResponsive"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-        >
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -74,24 +53,19 @@
     </div>
 </nav>
 
-<!-- Hero / Home -->
+<!-- Hero -->
 <section id="hero" class="bg-light">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <h1 class="display-4 fw-bold mb-3">Hi, I'm <span class="text-primary">Rohullah Babakarkhail</span></h1>
-                <h2 class="h4 text-secondary mb-3">
-                    Undergraduate Computer Science &amp; Systems Student @ University of Washington Tacoma
-                </h2>
-                <p class="lead mb-3">
-                    Software Engineering • Object-Oriented Programming • Problem Solving
-                </p>
+                <h2 class="h4 text-secondary mb-3">Undergraduate Computer Science &amp; Systems Student @ UW Tacoma</h2>
+                <p class="lead mb-3">Software Engineering • Object-Oriented Programming • Problem Solving</p>
                 <a href="#projects" class="btn btn-primary btn-lg me-2">View Projects</a>
                 <a href="#contact" class="btn btn-outline-secondary btn-lg">Contact Me</a>
             </div>
             <div class="col-lg-5 mt-4 mt-lg-0 text-center">
-                <img src="images/IMG_2524.jpeg" alt="Profile photo of Rohullah"
-                     class="img-fluid rounded-circle shadow-sm" />
+                <img src="images/IMG_2524.jpeg" class="img-fluid rounded-circle shadow-sm" alt="Profile photo">
             </div>
         </div>
     </div>
@@ -103,42 +77,21 @@
         <h2 class="mb-3">About Me</h2>
         <div class="divider bg-primary"></div>
 
-        <div class="row">
-            <div class="col-lg-8">
-                <p>
-                    I am an undergraduate Computer Science &amp; Systems student at the University of Washington Tacoma.
-                    This portfolio highlights my journey as a CS student, including my projects, skills, coursework,
-                    experience, and growth as a developer.
-                </p>
+        <p>
+            I am a Computer Science &amp; Systems student at the University of Washington Tacoma.
+            This portfolio highlights my journey as a CS student, including my projects, coursework, and goals.
+        </p>
 
-                <p class="mb-1 fw-semibold">My main interests include:</p>
-                <ul>
-                    <li>Software engineering</li>
-                    <li>Object-oriented programming</li>
-                    <li>Debugging and problem-solving</li>
-                    <li>Building structured, efficient applications</li>
-                </ul>
+        <p class="fw-semibold mt-3">Interests:</p>
+        <ul>
+            <li>Software engineering</li>
+            <li>Object-oriented programming</li>
+            <li>Debugging and problem solving</li>
+            <li>Building efficient applications</li>
+        </ul>
 
-                <p class="mb-1 fw-semibold">Career Goals:</p>
-                <p>
-                    I plan to continue building experience in software engineering, system design, and full-stack
-                    development while preparing for internships and long-term career opportunities in tech.
-                </p>
-
-                <p class="mb-1 fw-semibold">Motivation:</p>
-                <p>
-                    I’m driven by curiosity, the desire to solve complex problems, and the satisfaction of turning ideas
-                    into real, functional programs.
-                </p>
-
-                <p class="mb-1 fw-semibold">Additional Interests:</p>
-                <ul>
-                    <li>Mathematics &amp; logic puzzles</li>
-                    <li>Learning new programming tools</li>
-                    <li>Improving personal projects each quarter</li>
-                </ul>
-            </div>
-        </div>
+        <p class="fw-semibold mt-3">Career Goals:</p>
+        <p>Gain experience in software engineering, system design, and full-stack development.</p>
     </div>
 </section>
 
@@ -148,37 +101,20 @@
         <h2 class="mb-3">Projects</h2>
         <div class="divider bg-primary"></div>
 
+        <div class="row g-4">
 
-        <div class="row g-4 mt-2">
-
-            <!-- Road Rage Assignment -->
             <div class="col-md-6">
                 <div class="card h-100 shadow-sm">
-                    <img src="images/Screenshot (38).png" class="card-img-top" alt="Road Rage Project Screenshot">
+                    <img src="images/Screenshot (38).png" class="card-img-top" alt="Road Rage Screenshot">
                     <div class="card-body">
                         <h3 class="h5 card-title">Road Rage Assignment (Java Simulation)</h3>
-                        <p class="card-text">
-                            A Java-based simulation project designed to model how different vehicle types behave on a
-                            grid-based map. Each vehicle (car, truck, human, taxi, etc.) follows specific rules for
-                            movement, collisions, interactions, and direction choices.
+                        <p>
+                            A simulation modeling vehicle behavior (cars, taxis, trucks, humans) on a grid. Each follows unique rules for movement, collisions, and direction.
                         </p>
-                        <p class="card-text">
-                            <strong>Technologies:</strong> Java, OOP, Interfaces and Abstract Classes, JUnit Testing, IntelliJ
-                        </p>
-
-                        <p class="card-text mb-1 fw-semibold">Key Learnings:</p>
-                        <ul class="small">
-                            <li>Strengthened OOP skills using inheritance, interfaces, and polymorphism.</li>
-                            <li>Improved class design, organization, and reusable code structure.</li>
-                            <li>Practiced debugging complex interactions between vehicle behaviors.</li>
-                            <li>Gained experience reading and implementing detailed project specifications.</li>
-                            <li>Built confidence working with JUnit tests and simulation logic.</li>
-                        </ul>
+                        <strong>Technologies:</strong> Java, OOP, JUnit, IntelliJ
                     </div>
                 </div>
             </div>
-
-            <!-- Placeholder for future projects -->
 
         </div>
     </div>
@@ -187,7 +123,7 @@
 <!-- Skills -->
 <section id="skills">
     <div class="container">
-        <h2 class="mb-3">Skills</h2>
+        <h2>Skills</h2>
         <div class="divider bg-primary"></div>
 
         <div class="row">
@@ -196,28 +132,19 @@
                 <ul>
                     <li>Java</li>
                     <li>Python</li>
-                    <li>HTML &amp; CSS</li>
+                    <li>HTML & CSS</li>
                     <li>JavaScript (beginner)</li>
                     <li>SQL</li>
-                </ul>
-
-                <h3 class="h5 mt-4">Relevant Coursework</h3>
-                <ul>
-                    <li>TCSS 142 / 143 – Programming I &amp; II</li>
-                    <li>TCSS 305 – Programming Practicum</li>
-                    <li>TCSS 325 – Ethical Issues in Computing</li>
-                    <li>TCSS 321 – Discrete Structures</li>
-                    <li>More courses to be added as completed</li>
                 </ul>
             </div>
 
             <div class="col-md-6">
-                <h3 class="h5">Tools &amp; Technologies</h3>
+                <h3 class="h5">Tools & Technologies</h3>
                 <ul>
-                    <li>Git &amp; GitHub</li>
+                    <li>Git & GitHub</li>
                     <li>IntelliJ IDEA</li>
-                    <li>JUnit testing</li>
-                    <li>Gradle (basic)</li>
+                    <li>JUnit Testing</li>
+                    <li>Gradle</li>
                     <li>JGrasp</li>
                     <li>Jira</li>
                     <li>SharePoint</li>
@@ -230,15 +157,14 @@
 <!-- Experience -->
 <section id="experience" class="bg-light">
     <div class="container">
-        <h2 class="mb-3">Experience</h2>
+        <h2>Experience</h2>
         <div class="divider bg-primary"></div>
 
-        <h3 class="h5">Programming &amp; Academic Experience</h3>
         <ul>
-            <li>Completed multiple Java-based assignments at UW Tacoma.</li>
-            <li>Worked with Git and GitHub for version control.</li>
-            <li>Experience in team-based programming projects.</li>
-            <li>Debugging, testing, and code refactoring.</li>
+            <li>Java-based coursework at UW Tacoma</li>
+            <li>Team programming projects</li>
+            <li>Debugging, testing, refactoring</li>
+            <li>Version control using GitHub</li>
         </ul>
     </div>
 </section>
@@ -246,87 +172,47 @@
 <!-- Resume -->
 <section id="resume">
     <div class="container">
-        <h2 class="mb-3">Resume</h2>
+        <h2>Resume</h2>
         <div class="divider bg-primary"></div>
 
-        <p class="mb-3">
-            You can view and download my resume as a PDF using the link below.
-        </p>
-
-        <!-- Make sure Resume.pdf exists in the root of your repo (it already does) -->
-        <a href="Resume.pdf" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
-            Click here to download my resume (PDF)
-        </a>
+        <a href="Resume.pdf" class="btn btn-primary btn-lg" target="_blank">Resume (PDF)</a>
     </div>
 </section>
 
 <!-- Contact -->
 <section id="contact" class="bg-light">
     <div class="container">
-        <h2 class="mb-3">Contact</h2>
+        <h2>Contact</h2>
         <div class="divider bg-primary"></div>
 
-        <div class="row">
-            <div class="col-md-6">
-                <h3 class="h5">Professional Email</h3>
-                <p class="mb-3">
-                    <a href="mailto:rohullahsameer@gmail.com">rohullahsameer@gmail.com</a>
-                </p>
+        <h3 class="h5">Email</h3>
+        <p><a href="mailto:rohullahsameer@gmail.com">rohullahsameer@gmail.com</a></p>
 
-                <h3 class="h5">Links</h3>
-                <ul class="list-unstyled">
-                    <li>
-                        <strong>GitHub:</strong>
-                        <a href="https://github.com/RohullahBabakarkhail" target="_blank" rel="noopener">
-                            github.com/RohullahBabakarkhail
-                        </a>
-                    </li>
-                    <li>
-                        <strong>LinkedIn:</strong>
-                        <a href="https://www.linkedin.com/in/rohullahbabakarkhail/" target="_blank" rel="noopener">
-                            linkedin.com/in/rohullahbabakarkhail
-                        </a>
-                    </li>
-                    <li>
-                        <strong>Portfolio URL:</strong>
-                        <a href="https://rohullahbabakarkhail.github.io/" target="_blank" rel="noopener">
-                            rohullahbabakarkhail.github.io
-                        </a>
-                    </li>
-                </ul>
-            </div>
+        <h3 class="h5 mt-4">Links</h3>
 
-            <div class="col-md-6 mt-4 mt-md-0">
-                <h3 class="h5">Thank You for Visiting!</h3>
-                <p>
-                    Feel free to explore my projects and follow my progress as I grow as a Computer Science student
-                    and developer. I’m always open to feedback, opportunities, and collaborations.
-                </p>
-            </div>
-        </div>
+        <p>
+            <img src="images/Github.png" class="icon-logo" alt="GitHub logo">
+            <a href="https://github.com/RohullahBabakarkhail" target="_blank">github.com/RohullahBabakarkhail</a>
+        </p>
+
+        <p>
+            <img src="images/Linkedin.png" class="icon-logo" alt="LinkedIn logo">
+            <a href="https://www.linkedin.com/in/rohullahbabakarkhail/" target="_blank">linkedin.com/in/rohullahbabakarkhail</a>
+        </p>
+
     </div>
 </section>
 
 <!-- Footer -->
 <footer class="bg-dark text-light text-center">
-    <div class="container">
-        <small>
-            &copy; <span id="year"></span> Rohullah Babakarkhail. All rights reserved.
-        </small>
-    </div>
+    <small>&copy; <span id="year"></span> Rohullah Babakarkhail. All rights reserved.</small>
 </footer>
 
-<!-- Bootstrap JS (CDN) -->
-<script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-    crossorigin="anonymous"
-></script>
-
 <script>
-    // Set current year in footer
     document.getElementById("year").textContent = new Date().getFullYear();
 </script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 </html>
