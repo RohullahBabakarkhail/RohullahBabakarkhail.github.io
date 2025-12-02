@@ -1,45 +1,101 @@
-# portfolioTemplate Website
+# Rohullah Babakarkhail — Portfolio
 
-This is a portfolioTemplate website template designed to showcase your work or personal information.
+This repository contains my personal portfolio website. It showcases my projects, skills, coursework, and experience as a Computer Science and Systems undergraduate student at the University of Washington Tacoma.
 
-## Demo-images
-![s1](https://github.com/Arshdeep-13/portfolioTemplate/assets/108752646/ee99e60f-443a-4ed2-83c7-9a14b0abcc26)
-![s3](https://github.com/Arshdeep-13/portfolioTemplate/assets/108752646/f7042bf7-0b30-4300-8cf1-1e226cd45ee0)
-![s2](https://github.com/Arshdeep-13/portfolioTemplate/assets/108752646/0510814b-54fa-4360-b41b-cb0a2daf0db7)
+Live Portfolio:  
+https://rohullahbabakarkhail.github.io
 
-## Features
+---
 
-- Clean and minimal design
-- Responsive layout
-- Easy to customize
-- Lightweight and fast
+## About Me
 
-## Demo
+I am an undergraduate Computer Science and Systems student at the University of Washington Tacoma. My interests include:
 
-You can see a live demo of the website [here](https://tpriyanshu90-portfolio.netlify.app/)
+- Software engineering  
+- Object-oriented programming  
+- Debugging and problem solving  
+- Building clean and structured applications  
+- Learning new technologies  
 
-## Installation
+I enjoy working on Java-based projects, simulations, algorithms, and applications that challenge me to think critically and design logically. My long-term goal is to gain experience in software engineering roles and work on real-world systems.
 
-To use this template, follow these steps:
+---
 
-1. Clone the repository: `git clone https://github.com/tpriyanshu90/portfolioTemplate.git`
-2. Navigate to the project directory: `cd portfolioTemplate`
-3. Open the `index.html` file in your web browser.
+## Featured Project
 
-## Customization
+### Road Rage — Java Vehicle Simulation
 
-To customize the website according to your needs, you can:
+A simulation project that models how different vehicles behave on a grid-based map. Each vehicle type (car, truck, human, taxi, and others) follows specific rules for movement, collisions, and direction decisions.
 
-- Modify the HTML structure in the `index.html` file to change the content and layout.
-- Edit the CSS styles in the `styles.css` file to modify the visual appearance.
-- Update the JavaScript in the `script.js` file to add interactivity or additional features.
+Key Learnings:
+- Strengthened understanding of inheritance, interfaces, and polymorphism  
+- Improved class design and code organization  
+- Practiced debugging interactions between many classes  
+- Used JUnit testing during development  
+- Gained experience reading and implementing detailed specifications  
 
-Feel free to experiment and make changes to create your unique portfolio website.
+Technologies: Java, IntelliJ, JUnit, Object-Oriented Programming
 
-## Contributing
+GitHub Profile:  
+https://github.com/RohullahBabakarkhail
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Additional projects will be added as new coursework and personal work are completed.
 
-## License
+---
 
-This project is licensed under the [MIT License](LICENSE).
+## Skills
+
+### Programming
+- Java  
+- Python  
+- HTML and CSS  
+- JavaScript (beginner)  
+- SQL  
+
+### Tools
+- Git and GitHub  
+- IntelliJ IDEA  
+- JUnit  
+- JGrasp  
+- Gradle (basic)  
+- Jira  
+- SharePoint  
+
+### Coursework
+- TCSS 142 and 143 – Programming I and II  
+- TCSS 305 – Programming Practicum  
+- TCSS 325 – Ethical Issues in IT  
+- TCSS 321 – Discrete Structures  
+- Additional courses coming soon  
+
+---
+
+## Experience
+
+- Completed multiple Java-based assignments at UW Tacoma  
+- Worked with Git and GitHub for version control  
+- Experience in team-based programming projects  
+- Debugging, testing and code refactoring  
+- Continued improvement in coding style and design structure  
+
+---
+
+## Resume
+
+My latest resume can be downloaded here:  
+[Resume (PDF)](Resume.pdf)
+
+---
+
+## Contact
+
+Email: rohullahsameer@gmail.com  
+GitHub: https://github.com/RohullahBabakarkhail  
+LinkedIn: https://www.linkedin.com/in/rohullahbabakarkhail/  
+Portfolio: https://rohullahbabakarkhail.github.io  
+
+---
+
+## Thank You
+
+Thank you for visiting my portfolio repository. More updates will be added regularly as I continue learning and building new projects.
