@@ -83,7 +83,7 @@ Additional projects will be added as new coursework and personal work are comple
 ## Resume
 
 My latest resume can be downloaded here:  
-[Resume (PDF)](Resume(2).pdf)
+[Resume (PDF)](Resume.pdf)
 
 ---
 
