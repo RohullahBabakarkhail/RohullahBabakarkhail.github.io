@@ -1,132 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-<meta charset="UTF-8">
-<title>Projects | Rohullah Babakarkhail</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="stylesheet"
-href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-
-<style>
-
-body{
-background:#f8f9fa;
-}
-
-.content-card{
-background:white;
-padding:28px;
-border-radius:12px;
-box-shadow:0 4px 14px rgba(0,0,0,0.08);
-margin-bottom:30px;
-}
-
-.project-img{
-width:100%;
-height:220px;
-background:#dee2e6;
-border-radius:8px;
-margin-bottom:15px;
-}
-
-.section-intro{
-color:#6c757d;
-max-width:720px;
-margin-bottom:30px;
-}
-
-</style>
-
-</head>
-
-<body>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-
-<div class="container">
-
-<a class="navbar-brand fw-bold" href="index.html">
-Rohullah Babakarkhail
-</a>
-
-<button class="navbar-toggler"
-type="button"
-data-bs-toggle="collapse"
-data-bs-target="#navbarNav">
-
-<span class="navbar-toggler-icon"></span>
-
-</button>
-
-<div class="collapse navbar-collapse" id="navbarNav">
-
-<ul class="navbar-nav ms-auto">
-
-<li class="nav-item">
-<a class="nav-link" href="index.html">Home</a>
-</li>
-
-<li class="nav-item">
-<a class="nav-link" href="about.html">About</a>
-</li>
-
-<li class="nav-item dropdown">
-
-<a class="nav-link dropdown-toggle active"
-href="#"
-data-bs-toggle="dropdown">
-
-Portfolio
-
-</a>
-
-<ul class="dropdown-menu">
-
-<li><a class="dropdown-item active" href="projects.html">Projects</a></li>
-<li><a class="dropdown-item" href="skills.html">Skills</a></li>
-<li><a class="dropdown-item" href="experience.html">Experience</a></li>
-<li><a class="dropdown-item" href="resume.html">Resume</a></li>
-
-</ul>
-
-</li>
-
-<li class="nav-item">
-<a class="nav-link" href="contact.html">Contact</a>
-</li>
-
-</ul>
-
-</div>
-</div>
-
-</nav>
-
 <div class="container" style="padding-top:120px;">
 
 <h1 class="mb-3">Projects</h1>
 
 <p class="section-intro">
-These projects highlight my experience with software development, they were developed through coursework and hands-on technical practice.
+These projects demonstrate my experience building software using
+object-oriented programming, graphical interfaces, and problem solving.
+Each project was developed through coursework and hands-on programming practice.
 </p>
 
-<div class="row">
+<div class="row g-4">
+
+<!-- Road Rage -->
 
 <div class="col-md-6">
 
 <div class="content-card">
 
-<div class="project-img"></div>
+<img src="images/Screenshot (38).png" class="project-img">
 
 <h4>Road Rage Simulation</h4>
 
 <p>
-A Java-based vehicle simulation that models interactions between cars,
-taxis, bicycles, and pedestrians on a grid-based map.
-Each vehicle type follows different movement rules and behaviors.
+A Java-based simulation that models interactions between vehicles and pedestrians
+on a grid-based map. Different vehicle types follow unique movement rules and
+behavior patterns.
 </p>
 
 <p><strong>Technologies:</strong> Java, OOP, Interfaces, JUnit</p>
@@ -135,61 +32,70 @@ Each vehicle type follows different movement rules and behaviors.
 
 </div>
 
-<div class="col-md-6">
 
-<div class="content-card">
-
-<div class="project-img"></div>
-
-<h4>University Database System</h4>
-
-<p>
-Designed and implemented a relational database system for managing
-university courses, students, and registrations using ER modeling
-and SQL queries.
-</p>
-
-<p><strong>Technologies:</strong> SQL, ERDPlus, Microsoft Access</p>
-
-</div>
-
-</div>
+<!-- Login System -->
 
 <div class="col-md-6">
 
 <div class="content-card">
 
-<div class="project-img"></div>
+<img src="images/Book.png" class="project-img">
 
-<h4>LC-3 Assembly Programs</h4>
+<h4>Java Login System</h4>
 
 <p>
-Developed assembly language programs using the LC-3 architecture
-to understand computer organization, instruction cycles,
-register operations, and low-level program execution.
+A graphical login interface built with Java Swing that allows users to create
+accounts, validate passwords, and select campus locations. The application
+demonstrates GUI design and input validation.
 </p>
 
-<p><strong>Technologies:</strong> LC-3 Assembly, Computer Architecture</p>
+<p><strong>Technologies:</strong> Java, Swing GUI</p>
 
 </div>
 
 </div>
+
+
+<!-- Color Picker -->
 
 <div class="col-md-6">
 
 <div class="content-card">
 
-<div class="project-img"></div>
+<img src="images/Color.png" class="project-img">
 
-<h4>Java Bookstore Application</h4>
+<h4>RGB Color Picker Application</h4>
 
 <p>
-Built a Java application demonstrating object-oriented design,
-class structures, and modular program organization for managing
-bookstore inventory and transactions.
+A Java GUI application that allows users to dynamically adjust red, green,
+and blue values using sliders to generate custom colors. The program updates
+the preview color in real time.
 </p>
 
-<p><strong>Technologies:</strong> Java, OOP, IntelliJ</p>
+<p><strong>Technologies:</strong> Java, Swing, Event Handling</p>
+
+</div>
+
+</div>
+
+
+<!-- Craps Game -->
+
+<div class="col-md-6">
+
+<div class="content-card">
+
+<img src="images/Game_Craps.png" class="project-img">
+
+<h4>Craps Game Simulator</h4>
+
+<p>
+A Java-based dice game simulation implementing the rules of the casino game
+Craps. The application includes betting functionality, dice rolling logic,
+and game state management.
+</p>
+
+<p><strong>Technologies:</strong> Java, Object-Oriented Programming</p>
 
 </div>
 
@@ -198,8 +104,3 @@ bookstore inventory and transactions.
 </div>
 
 </div>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
-</body>
-</html>
